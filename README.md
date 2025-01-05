@@ -11,9 +11,9 @@ Moon Phase.
 
 Technologies Used:
 
-Python
-BeautifulSoup
-Requests
+Python,
+BeautifulSoup,
+Requests,
 Pandas
 
 Conclusion:
